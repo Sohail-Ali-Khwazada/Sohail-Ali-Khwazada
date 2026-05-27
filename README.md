@@ -4,7 +4,7 @@
   <img src="https://komarev.com/ghpvc/?username=sohail-ali-khwazada&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
-🎓 I'm a passionate **Artificial Intelligence and Data Science** student at **Thadomal Shahani Engineering College**, with a strong foundation in **full-stack development** and **competitive programming**. 
+🎓 I’m a passionate Artificial Intelligence and Data Science graduate with a strong foundation in full-stack development and competitive programming.
 ---
 
 ## 📬 Get in Touch
