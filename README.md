@@ -33,15 +33,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="162px" src="https://github-readme-stats.vercel.app/api?username=Sohail-Ali-Khwazada&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="700px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sohail-Ali-Khwazada&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
-
----
-
 ## 🛠️ Top Projects
 
 ### 🎬 [YouSummarizer](https://github.com/Sohail-Ali-Khwazada/YouSummarizer)  
